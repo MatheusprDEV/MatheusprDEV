@@ -1,8 +1,24 @@
 # 👨🏽‍💻 Matheus Prado
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Matheus Prado Rocha, tenho 17 anos e sou de Jardinópolis-SP. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento de Sistemas pelo SENAI. Atualmente, estou procurando minha 1º oportunidade como desenvolvedor junior e esperando os resultados para as faculdades.
+Sou um desenvolvedor apaixonado por tecnologia, tenho 17 anos e sou de Jardinópolis-SP, estou buscando minha primeira oportunidade na área de TI. Tenho experiência em **Back-End e Front-End**, com projetos que envolvem **.NET, C#, JavaScript, SQL Server, Entity Framework, HTML & CSS**.  
+
+💡 **Sobre mim:**  
+- 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI.  
+- 🚀 Interesse em desenvolvimento Full Stack.  
+- 🔍 Sempre aprendendo e melhorando minhas habilidades.  
+
+🔗 **Projetos em Destaque:**  
+- 🌎 [Praiou – Plataforma para turismo](https://github.com/SEU-USUARIO/Praiou)  
+- 🔥 Outros projetos disponíveis no meu repositório!  
+
+📫 **Entre em contato:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/)  
+- 📧 E-mail: **matheus.pradolv@gmail.com**  
+
+🚀 Vamos construir algo incrível juntos!
+
 
 ---
 
