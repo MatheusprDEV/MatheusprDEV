@@ -11,10 +11,9 @@ Sou um desenvolvedor apaixonado por tecnologia, tenho 17 anos e sou de Jardinóp
 
 🔗 **Projetos em Destaque:**  
 - 🌎 [Praiou – Plataforma para turismo](https://github.com/SEU-USUARIO/Praiou)  
-- 🔥 Outros projetos disponíveis no meu repositório!  
 
 📫 **Entre em contato:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheuspradorocha/)  
 - 📧 E-mail: **matheus.pradolv@gmail.com**  
 
 🚀 Vamos construir algo incrível juntos!
